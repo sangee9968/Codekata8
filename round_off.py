@@ -1,3 +1,4 @@
 n=float(input())
+m=int(n)
 #print result
-print(round(n))
+print(m+1)
